@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.1,
+          "feature": "brevorts_biomes:fancy_birch_bees_0002"
+        },
+        {
+          "chance": 0.0125,
+          "feature": "minecraft:fallen_birch_tree"
+        }
+      ],
+      "default": "brevorts_biomes:birch_forest_bees_0002"
+    }
+  }
+  

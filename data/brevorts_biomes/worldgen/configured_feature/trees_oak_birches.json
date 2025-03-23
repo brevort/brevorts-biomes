@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "brevorts_biomes:super_duper_birch_checked"
+      }
+    ],
+    "default": "brevorts_biomes:sky_birch_checked"
+  }
+}

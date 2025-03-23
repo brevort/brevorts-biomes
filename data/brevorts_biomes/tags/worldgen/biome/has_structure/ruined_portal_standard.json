@@ -1,0 +1,18 @@
+{
+  "values": [
+    "#brevorts_biomes:is_taiga",
+    "#brevorts_biomes:is_forest",
+    "brevorts_biomes:marsh",
+    "brevorts_biomes:cold_tundra",
+    "brevorts_biomes:cool_tundra",
+    "brevorts_biomes:dry_forest",
+    "brevorts_biomes:frozen_tundra",
+    "brevorts_biomes:plains",
+    "brevorts_biomes:polar_desert",
+    "brevorts_biomes:prairies",
+    "brevorts_biomes:savanna",
+    "brevorts_biomes:scrubland",
+    "brevorts_biomes:volcano",
+    "brevorts_biomes:winter_forest"
+  ]
+}

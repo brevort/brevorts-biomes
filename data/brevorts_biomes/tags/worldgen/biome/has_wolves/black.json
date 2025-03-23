@@ -1,0 +1,15 @@
+{
+  "values": [
+    "brevorts_biomes:shield",
+    "brevorts_biomes:alpine_meadows",
+    "brevorts_biomes:dunes",
+    "brevorts_biomes:jagged_bluffs",
+    "brevorts_biomes:gravelly_bluffs",
+    "brevorts_biomes:volcano",
+    "brevorts_biomes:snowy_volcano",
+    "minecraft:deep_dark",
+    "brevorts_biomes:magmatic_caves",
+    "brevorts_biomes:granite_caves",
+    "brevorts_biomes:diorite_caves"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:snowball"
+    },
+    "title": "Staying Chill",
+    "description": "Discover the Frozen Biomes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:alpha_fields_winter": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:alpha_fields_winter"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:frozen_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:frozen_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:frozen_tundra": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:frozen_tundra"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:glacier": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:glacier"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:polar_desert": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:polar_desert"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:winter_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:winter_forest"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:alpha_fields_winter"
+    ],
+    [
+      "brevorts_biomes:frozen_forest"
+    ],
+    [
+      "brevorts_biomes:frozen_tundra"
+    ],
+    [
+      "brevorts_biomes:glacier"
+    ],
+    [
+      "brevorts_biomes:polar_desert"
+    ],
+    [
+      "brevorts_biomes:winter_forest"
+    ]
+  ],
+  "rewards": {
+    "experience": 60
+  },
+  "sends_telemetry_event": true
+}

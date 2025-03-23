@@ -1,0 +1,14 @@
+{
+  "values": [
+    "brevorts_biomes:desert",
+    "brevorts_biomes:dry_forest",
+    "brevorts_biomes:savanna",
+    "brevorts_biomes:tropical_rainforest",
+    "brevorts_biomes:seasonal_rainforest",
+    "brevorts_biomes:peat_swamp",
+    "brevorts_biomes:oasis",
+    "brevorts_biomes:cloud_forest",
+    "brevorts_biomes:badlands",
+    "brevorts_biomes:wooded_badlands"
+  ]
+}

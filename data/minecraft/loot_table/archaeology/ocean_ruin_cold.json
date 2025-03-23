@@ -1,0 +1,159 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blade_pottery_sherd",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:explorer_pottery_sherd",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mourner_pottery_sherd",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:plenty_pottery_sherd",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_axe",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_hoe",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coal",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "brevorts_biomes:frozen_ocean_poi",
+              "decoration": "target_x",
+              "zoom": 2,
+              "search_radius": 1023
+            },
+            {
+              "function": "minecraft:set_name",
+              "target": "item_name",
+              "name": "Frozen Ocean Explorer Map"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "brevorts_biomes:deep_frozen_ocean_poi",
+              "decoration": "target_x",
+              "zoom": 2,
+              "search_radius": 1023
+            },
+            {
+              "function": "minecraft:set_name",
+              "target": "item_name",
+              "name": "Deep Frozen Ocean Explorer Map"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "brevorts_biomes:deep_cold_ocean_poi",
+              "decoration": "target_x",
+              "zoom": 2,
+              "search_radius": 1023
+            },
+            {
+              "function": "minecraft:set_name",
+              "target": "item_name",
+              "name": "Deep Cold Ocean Explorer Map"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "brevorts_biomes:deep_lukewarm_ocean_poi",
+              "decoration": "target_x",
+              "zoom": 2,
+              "search_radius": 1023
+            },
+            {
+              "function": "minecraft:set_name",
+              "target": "item_name",
+              "name": "Deep Lukewarm Ocean Explorer Map"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:archaeology/ocean_ruin_cold"
+}

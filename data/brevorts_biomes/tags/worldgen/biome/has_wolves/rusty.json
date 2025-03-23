@@ -1,0 +1,15 @@
+{
+  "values": [
+    "brevorts_biomes:seasonal_rainforest",
+    "brevorts_biomes:tropical_rainforest",
+    "brevorts_biomes:peat_swamp",
+    "brevorts_biomes:dry_forest",
+    "brevorts_biomes:cloud_forest",
+    "brevorts_biomes:fungal_caverns",
+    "minecraft:mushroom_fields",
+    "minecraft:lukewarm_ocean",
+    "minecraft:deep_lukewarm_ocean",
+    "brevorts_biomes:hot_springs",
+    "brevorts_biomes:ferrous_peaks"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:desert",
+    "minecraft:warm_ocean",
+    "#minecraft:is_jungle",
+    "#minecraft:is_savanna",
+    "#minecraft:is_nether",
+    "#minecraft:is_badlands",
+    "minecraft:mangrove_swamp",
+    "#brevorts_biomes:spawns_warm_variant_frogs"
+  ]
+}

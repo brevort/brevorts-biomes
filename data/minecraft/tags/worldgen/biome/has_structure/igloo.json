@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "#brevorts_biomes:has_structure/igloo"
+  ]
+}

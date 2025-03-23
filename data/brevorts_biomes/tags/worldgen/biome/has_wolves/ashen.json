@@ -1,0 +1,11 @@
+{
+  "values": [
+    "brevorts_biomes:winter_forest",
+    "brevorts_biomes:frozen_forest",
+    "brevorts_biomes:frozen_tundra",
+    "minecraft:frozen_ocean",
+    "minecraft:deep_frozen_ocean",
+    "brevorts_biomes:ice_caves",
+    "brevorts_biomes:icy_peaks"
+  ]
+}

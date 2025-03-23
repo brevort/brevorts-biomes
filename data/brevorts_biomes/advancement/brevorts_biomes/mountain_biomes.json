@@ -1,0 +1,191 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:emerald_ore"
+    },
+    "title": "Mountain Climber",
+    "description": "Discover the Alpine Biomes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:alpine_meadow": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:alpine_meadows"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:conifer_grove": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:conifer_grove"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:ferrous_peaks": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:ferrous_peaks"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:foothills": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:foothills"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:icy_peaks": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:icy_peaks"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:gravelly_bluffs": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:gravelly_bluffs"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:jagged_bluffs": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:jagged_bluffs"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:lofty_peaks": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:lofty_peaks"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:mountain_grove": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:mountain_grove"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:snow_capped_mountains": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:snow_capped_mountains"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:snowy_volcano": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:snowy_volcano"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:stony_peaks": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:stony_peaks"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:volcano": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:volcano"
+          }
+        }
+      }
+    }
+
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:alpine_meadow"
+    ],
+    [
+      "brevorts_biomes:conifer_grove"
+    ],
+    [
+      "brevorts_biomes:ferrous_peaks"
+    ],
+    [
+      "brevorts_biomes:foothills"
+    ],
+    [
+      "brevorts_biomes:gravelly_bluffs"
+    ],
+    [
+      "brevorts_biomes:icy_peaks"
+    ],
+    [
+      "brevorts_biomes:jagged_bluffs"
+    ],
+    [
+      "brevorts_biomes:lofty_peaks"
+    ],
+    [
+      "brevorts_biomes:mountain_grove"
+    ],
+    [
+      "brevorts_biomes:snow_capped_mountains"
+    ],
+    [
+      "brevorts_biomes:snowy_volcano"
+    ],
+    [
+      "brevorts_biomes:stony_peaks"
+    ],
+    [
+      "brevorts_biomes:volcano"
+    ]
+  ],
+  "rewards": {
+    "experience": 130
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "default": "brevorts_biomes:small_dark_oak_leaf_litter",
+      "features": [
+        {
+          "chance": 0.0125,
+          "feature": "brevorts_biomes:fallen_small_dark_oak_tree"
+        }
+      ]
+    }
+  }

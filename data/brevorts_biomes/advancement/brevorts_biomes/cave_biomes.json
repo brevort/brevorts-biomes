@@ -1,0 +1,206 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_pickaxe",
+      "components": {
+        "minecraft:enchantment_glint_override": true
+      }
+    },
+    "title": "Rock Star",
+    "description": "Discover the Cave Biomes",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:coal_deposits": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:coal_deposits"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:deep_dark": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:deep_dark"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:dripstone_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:dripstone_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:fungal_caverns": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:fungal_caverns"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:hot_springs": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:hot_springs"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:ice_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:ice_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:lush_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:lush_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:andesite_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:andesite_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:diorite_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:diorite_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:granite_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:granite_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:magmatic_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:magmatic_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:oceanic_abyss": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:oceanic_abyss"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:glowworm_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:glowworm_caves"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:crystal_caves": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:crystal_caves"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:coal_deposits"
+    ],
+    [
+      "brevorts_biomes:deep_dark"
+    ],
+    [
+      "brevorts_biomes:dripstone_caves"
+    ],
+    [
+      "brevorts_biomes:fungal_caverns"
+    ],
+    [
+      "brevorts_biomes:hot_springs"
+    ],
+    [
+      "brevorts_biomes:ice_caves"
+    ],
+    [
+      "brevorts_biomes:lush_caves"
+    ],
+    [
+      "brevorts_biomes:andesite_caves"
+    ],
+    [
+      "brevorts_biomes:diorite_caves"
+    ],
+    [
+      "brevorts_biomes:granite_caves"
+    ],
+    [
+      "brevorts_biomes:magmatic_caves"
+    ],
+    [
+      "brevorts_biomes:oceanic_abyss"
+    ],
+    [
+      "brevorts_biomes:glowworm_caves"
+    ],
+    [
+      "brevorts_biomes:crystal_caves"
+    ]
+  ],
+  "rewards": {
+    "experience": 280
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,60 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:tall_dry_grass"
+    },
+    "title": "Desert Explorer",
+    "description": "Discover the Deserts",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:badlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:badlands"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:desert": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:desert"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:oasis": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:oasis"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:badlands"
+    ],
+    [
+      "brevorts_biomes:desert"
+    ],
+    [
+      "brevorts_biomes:oasis"
+    ]
+  ],
+  "rewards": {
+    "experience": 30
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,138 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:short_grass"
+    },
+    "title": "Plain Jane",
+    "description": "Discover the Grasslands",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:cold_tundra": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:cold_tundra"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:cool_tundra": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:cool_tundra"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:alpha_fields": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:alpha_fields"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:lavender_fields": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:lavender_fields"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:plains": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:plains"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:plateau": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:plateau"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:prairies": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:prairies"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:savanna": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:savanna"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:scrubland": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:scrubland"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:cold_tundra"
+    ],
+    [
+      "brevorts_biomes:cool_tundra"
+    ],
+    [
+      "brevorts_biomes:alpha_fields"
+    ],
+    [
+      "brevorts_biomes:lavender_fields"
+    ],
+    [
+      "brevorts_biomes:plains"
+    ],
+    [
+      "brevorts_biomes:plateau"
+    ],
+    [
+      "brevorts_biomes:prairies"
+    ],
+    [
+      "brevorts_biomes:savanna"
+    ],
+    [
+      "brevorts_biomes:scrubland"
+    ]
+  ],
+  "rewards": {
+    "experience": 90
+  },
+  "sends_telemetry_event": true
+}

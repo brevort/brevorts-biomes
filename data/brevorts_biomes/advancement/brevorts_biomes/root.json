@@ -1,0 +1,23 @@
+{
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "display": {
+      "announce_to_chat": false,
+      "background": "minecraft:block/oak_log",
+      "description": "Explore all the biomes!",
+      "icon": {
+        "count": 1,
+        "id": "minecraft:grass_block"
+      },
+      "show_toast": false,
+      "title": "Brevort's Biomes"
+    },
+    "requirements": [
+      [
+        "tick"
+      ]
+    ]
+  }

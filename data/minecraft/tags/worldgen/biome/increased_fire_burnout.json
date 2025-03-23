@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:bamboo_jungle",
+    "minecraft:mushroom_fields",
+    "minecraft:mangrove_swamp",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:swamp",
+    "minecraft:jungle",
+    "#brevorts_biomes:increased_fire_burnout"
+  ]
+}

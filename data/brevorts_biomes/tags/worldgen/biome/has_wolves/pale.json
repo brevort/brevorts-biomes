@@ -1,0 +1,17 @@
+{
+  "values": [
+    "brevorts_biomes:conifer_grove",
+    "brevorts_biomes:rolling_hills",
+    "brevorts_biomes:mountain_grove",
+    "brevorts_biomes:foothills",
+    "minecraft:dripstone_caves",
+    "minecraft:deep_cold_ocean",
+    "minecraft:cold_ocean",
+    "brevorts_biomes:pale_orchard",
+    "brevorts_biomes:alpha_fields",
+    "brevorts_biomes:alpha_fields_winter",
+    "brevorts_biomes:glowworm_caves",
+    "brevorts_biomes:crystal_caves",
+    "brevorts_biomes:andesite_caves"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "feature": "brevorts_biomes:crystal_caves/amethyst_in_calcite_blob",
+    "placement": [
+      {
+        "type": "minecraft:count",
+        "count": 200
+      },
+      {
+        "type": "minecraft:count",
+        "count": 4
+      },
+      {
+        "type": "minecraft:in_square"
+      },
+      {
+        "type": "minecraft:height_range",
+        "height": {
+          "type": "minecraft:uniform",
+          "max_inclusive": {
+            "absolute": 744
+          },
+          "min_inclusive": {
+            "absolute": -160
+          }
+        }
+      },
+      {
+        "type": "minecraft:biome"
+      }
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:simple_random_selector",
+    "config": {
+      "features": [
+        "brevorts_biomes:apple_tree_checked"
+      ]
+    }
+  }

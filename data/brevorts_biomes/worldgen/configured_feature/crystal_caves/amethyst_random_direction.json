@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.5,
+        "feature": "brevorts_biomes:crystal_caves/amethyst/amethyst_on_floor"
+      },
+      {
+        "chance": 0.05,
+        "feature": "brevorts_biomes:crystal_caves/amethyst/amethyst_facing_north"
+      },
+      {
+        "chance": 0.05,
+        "feature": "brevorts_biomes:crystal_caves/amethyst/amethyst_facing_west"
+      },
+      {
+        "chance": 0.05,
+        "feature": "brevorts_biomes:crystal_caves/amethyst/amethyst_facing_south"
+      },
+      {
+        "chance": 0.05,
+        "feature": "brevorts_biomes:crystal_caves/amethyst/amethyst_facing_east"
+      }
+    ],
+    "default": "brevorts_biomes:crystal_caves/amethyst/amethyst_on_ceiling"
+  }
+}

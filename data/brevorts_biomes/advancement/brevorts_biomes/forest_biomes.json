@@ -1,0 +1,99 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_log"
+    },
+    "title": "Forest Explorer",
+    "description": "Discover the Forests",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:autumnal_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:autumnal_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:continental_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:continental_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:dry_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:dry_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:maple_ridge": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:maple_ridge"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:shield": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:shield"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:temperate_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:temperate_forest"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:autumnal_forest"
+    ],
+    [
+      "brevorts_biomes:continental_forest"
+    ],
+    [
+      "brevorts_biomes:dry_forest"
+    ],
+    [
+      "brevorts_biomes:maple_ridge"
+    ],
+    [
+      "brevorts_biomes:shield"
+    ],
+    [
+      "brevorts_biomes:temperate_forest"
+    ]
+  ],
+  "rewards": {
+    "experience": 60
+  },
+  "sends_telemetry_event": true
+}

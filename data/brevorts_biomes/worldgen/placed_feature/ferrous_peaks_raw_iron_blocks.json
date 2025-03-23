@@ -1,0 +1,27 @@
+{
+  "feature": "brevorts_biomes:ferrous_peaks_raw_iron_blocks",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 256
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 95
+        },
+        "max_inclusive": {
+          "absolute": 319
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

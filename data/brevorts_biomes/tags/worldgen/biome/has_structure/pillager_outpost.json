@@ -1,0 +1,18 @@
+{
+  "values": [
+    "brevorts_biomes:desert",
+    "brevorts_biomes:plains",
+    "brevorts_biomes:prairies",
+    "brevorts_biomes:scrubland",
+    "brevorts_biomes:dry_forest",
+    "brevorts_biomes:savanna",
+    "brevorts_biomes:frozen_tundra",
+    "brevorts_biomes:cool_tundra",
+    "brevorts_biomes:cold_tundra",
+    "brevorts_biomes:boreal_forest",
+    "#brevorts_biomes:is_mountain",
+    "brevorts_biomes:foothills",
+    "brevorts_biomes:plateau",
+    "brevorts_biomes:rolling_hills"
+  ]
+}

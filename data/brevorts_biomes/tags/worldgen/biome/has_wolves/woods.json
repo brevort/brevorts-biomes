@@ -1,0 +1,23 @@
+{
+  "values": [
+    "brevorts_biomes:temperate_forest",
+    "brevorts_biomes:continental_forest",
+    "brevorts_biomes:dense_forest",
+    "brevorts_biomes:autumnal_birch_forest",
+    "brevorts_biomes:windswept_birch_forest",
+    "brevorts_biomes:birch_forest",
+    "brevorts_biomes:autumnal_forest",
+    "brevorts_biomes:frosted_forest",
+    "minecraft:lush_caves",
+    "minecraft:ocean",
+    "minecraft:deep_ocean",
+    "brevorts_biomes:maple_ridge",
+    "brevorts_biomes:coal_deposits",
+    "brevorts_biomes:swamp",
+    "brevorts_biomes:marsh",
+    "brevorts_biomes:tidal_flats",
+    "brevorts_biomes:frosted_dense_forest",
+    "brevorts_biomes:flower_field",
+    "brevorts_biomes:oceanic_abyss"
+  ]
+}

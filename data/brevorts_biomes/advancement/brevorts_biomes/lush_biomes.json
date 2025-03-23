@@ -1,0 +1,138 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:flowering_azalea_leaves"
+    },
+    "title": "A Jungle Journey",
+    "description": "Discover the Lush Biomes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:autumnal_birch_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:autumnal_birch_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:birch_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:birch_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:boreal_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:boreal_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:highlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:highlands"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:dense_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:dense_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:pale_orchard": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:pale_orchard"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:seasonal_rainforest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:seasonal_rainforest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:tropical_rainforest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:tropical_rainforest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:wooded_badlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:wooded_badlands"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:autumnal_birch_forest"
+    ],
+    [
+      "brevorts_biomes:birch_forest"
+    ],
+    [
+      "brevorts_biomes:boreal_forest"
+    ],
+    [
+      "brevorts_biomes:dense_forest"
+    ],
+    [
+      "brevorts_biomes:highlands"
+    ],
+    [
+      "brevorts_biomes:pale_orchard"
+    ],
+    [
+      "brevorts_biomes:seasonal_rainforest"
+    ],
+    [
+      "brevorts_biomes:tropical_rainforest"
+    ],
+    [
+      "brevorts_biomes:wooded_badlands"
+    ]
+  ],
+  "rewards": {
+    "experience": 90
+  },
+  "sends_telemetry_event": true
+}

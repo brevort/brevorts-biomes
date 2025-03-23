@@ -1,0 +1,21 @@
+{
+    "values": [
+      "#minecraft:is_nether",
+      "minecraft:warm_ocean",
+      "minecraft:lukewarm_ocean",
+      "minecraft:deep_lukewarm_ocean",
+      "brevorts_biomes:badlands",
+      "brevorts_biomes:cloud_forest",
+      "brevorts_biomes:desert",
+      "brevorts_biomes:dry_forest",
+      "brevorts_biomes:lavender_fields",
+      "brevorts_biomes:nuclear_wasteland",
+      "brevorts_biomes:oasis",
+      "brevorts_biomes:peat_swamp",
+      "brevorts_biomes:savanna",
+      "brevorts_biomes:seasonal_rainforest",
+      "brevorts_biomes:tropical_rainforest",
+      "brevorts_biomes:windswept_savanna",
+      "brevorts_biomes:wooded_badlands"
+    ]
+  }

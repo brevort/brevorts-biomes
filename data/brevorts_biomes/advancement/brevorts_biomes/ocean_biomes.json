@@ -1,0 +1,165 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:water_bucket"
+    },
+    "title": "Deep Sea Diver",
+    "description": "Discover the Ocean Biomes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:cold_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:cold_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:deep_cold_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:deep_cold_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:deep_frozen_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:deep_frozen_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:deep_lukewarm_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:deep_lukewarm_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:deep_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:deep_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:dunes": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:dunes"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:frozen_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:frozen_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:lukewarm_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:lukewarm_ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:mushroom_fields": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:mushroom_fields"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:ocean"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:warm_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:warm_ocean"
+          }
+        }
+      }
+    }
+
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:cold_ocean"
+    ],
+    [
+      "brevorts_biomes:deep_cold_ocean"
+    ],
+    [
+      "brevorts_biomes:deep_frozen_ocean"
+    ],
+    [
+      "brevorts_biomes:deep_lukewarm_ocean"
+    ],
+    [
+      "brevorts_biomes:deep_ocean"
+    ],
+    [
+      "brevorts_biomes:dunes"
+    ],
+    [
+      "brevorts_biomes:frozen_ocean"
+    ],
+    [
+      "brevorts_biomes:lukewarm_ocean"
+    ],
+    [
+      "brevorts_biomes:mushroom_fields"
+    ],
+    [
+      "brevorts_biomes:ocean"
+    ],
+    [
+      "brevorts_biomes:warm_ocean"
+    ]
+  ],
+  "rewards": {
+    "experience": 110
+  },
+  "sends_telemetry_event": true
+}

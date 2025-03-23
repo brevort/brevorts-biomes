@@ -1,0 +1,25 @@
+{
+    "values": [
+      "#minecraft:is_end",
+      "minecraft:cold_ocean",
+      "minecraft:deep_cold_ocean",
+      "minecraft:frozen_ocean",
+      "minecraft:deep_frozen_ocean",
+      "minecraft:deep_dark",
+      "brevorts_biomes:alpine_meadows",
+      "brevorts_biomes:boreal_forest",
+      "brevorts_biomes:cold_tundra",
+      "brevorts_biomes:conifer_grove",
+      "brevorts_biomes:cool_tundra",
+      "brevorts_biomes:frozen_forest",
+      "brevorts_biomes:frozen_tundra",
+      "brevorts_biomes:glacier",
+      "brevorts_biomes:highlands",
+      "brevorts_biomes:ice_caves",
+      "brevorts_biomes:icy_peaks",
+      "brevorts_biomes:polar_desert",
+      "brevorts_biomes:shield",
+      "brevorts_biomes:snowy_volcano",
+      "brevorts_biomes:snow_capped_mountains"
+    ]
+  }

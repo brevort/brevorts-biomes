@@ -1,0 +1,125 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bamboo"
+    },
+    "title": "Breezy",
+    "description": "Discover the Shattered Biomes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "brevorts_biomes:brevorts_biomes/root",
+  "criteria": {
+    "brevorts_biomes:cloud_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:cloud_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:flower_field": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:flower_field"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:frosted_dense_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:frosted_dense_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:frosted_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:frosted_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:nuclear_wasteland": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:nuclear_wasteland"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:rolling_hills": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:rolling_hills"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:windswept_birch_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:windswept_birch_forest"
+          }
+        }
+      }
+    },
+    "brevorts_biomes:windswept_savanna": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "brevorts_biomes:windswept_savanna"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brevorts_biomes:cloud_forest"
+    ],
+    [
+      "brevorts_biomes:flower_field"
+    ],
+    [
+      "brevorts_biomes:frosted_dense_forest"
+    ],
+    [
+      "brevorts_biomes:frosted_forest"
+    ],
+    [
+      "brevorts_biomes:nuclear_wasteland"
+    ],
+    [
+      "brevorts_biomes:rolling_hills"
+    ],
+    [
+      "brevorts_biomes:windswept_birch_forest"
+    ],
+    [
+      "brevorts_biomes:windswept_savanna"
+    ]
+  ],
+  "rewards": {
+    "experience": 80
+  },
+  "sends_telemetry_event": true
+}

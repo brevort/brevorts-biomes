@@ -1,0 +1,292 @@
+{
+  "brevorts_biomes:plains": {
+    "r": 114,
+    "g": 249,
+    "b": 23
+  },
+  "brevorts_biomes:scrubland": {
+    "r": 200,
+    "g": 252,
+    "b": 20
+  },
+  "brevorts_biomes:prairies": {
+    "r": 73,
+    "g": 254,
+    "b": 128
+  },
+  "brevorts_biomes:alpha_fields": {
+    "r": 155,
+    "g": 255,
+    "b": 121
+  },
+  "brevorts_biomes:autumnal_birch_forest": {
+    "r": 255,
+    "g": 237,
+    "b": 17
+  },
+  "brevorts_biomes:autumnal_forest": {
+    "r": 255,
+    "g": 130,
+    "b": 17
+  },
+  "brevorts_biomes:maple_ridge": {
+    "r": 255,
+    "g": 0,
+    "b": 0
+  },
+  "brevorts_biomes:badlands": {
+    "r": 217,
+    "g": 116,
+    "b": 55
+  },
+  "brevorts_biomes:birch_forest": {
+    "r": 172,
+    "g": 240,
+    "b": 32
+  },
+  "brevorts_biomes:boreal_forest": {
+    "r": 24,
+    "g": 146,
+    "b": 128
+  },
+  "brevorts_biomes:cool_tundra": {
+    "r": 175,
+    "g": 208,
+    "b": 64
+  },
+  "brevorts_biomes:cold_tundra": {
+    "r": 218,
+    "g": 198,
+    "b": 54
+  },
+  "brevorts_biomes:dense_forest": {
+    "r": 72,
+    "g": 86,
+    "b": 27
+  },
+  "brevorts_biomes:desert": {
+    "r": 253,
+    "g": 247,
+    "b": 162
+  },
+  "brevorts_biomes:dry_forest": {
+    "r": 172,
+    "g": 175,
+    "b": 35
+  },
+  "brevorts_biomes:frozen_forest": {
+    "r": 165,
+    "g": 254,
+    "b": 252
+  },
+  "brevorts_biomes:frozen_tundra": {
+    "r": 222,
+    "g": 254,
+    "b": 254
+  },
+  "brevorts_biomes:polar_desert": {
+    "r": 255,
+    "g": 239,
+    "b": 185
+  },
+  "brevorts_biomes:savanna": {
+    "r": 200,
+    "g": 196,
+    "b": 23
+  },
+  "brevorts_biomes:temperate_forest": {
+    "r": 71,
+    "g": 149,
+    "b": 34
+  },
+  "brevorts_biomes:seasonal_rainforest": {
+    "r": 150,
+    "g": 201,
+    "b": 31
+  },
+  "brevorts_biomes:tropical_rainforest": {
+    "r": 84,
+    "g": 215,
+    "b": 21
+  },
+  "brevorts_biomes:shield": {
+    "r": 250,
+    "g": 171,
+    "b": 133
+  },
+  "brevorts_biomes:winter_forest": {
+    "r": 192,
+    "g": 254,
+    "b": 241
+  },
+  "brevorts_biomes:alpine_meadows": {
+    "r": 114,
+    "g": 188,
+    "b": 177
+  },
+  "brevorts_biomes:lofty_peaks": {
+    "r": 214,
+    "g": 214,
+    "b": 214
+  },
+  "brevorts_biomes:snow_capped_mountains": {
+    "r": 226,
+    "g": 226,
+    "b": 226
+  },
+  "brevorts_biomes:icy_peaks": {
+    "r": 166,
+    "g": 189,
+    "b": 200
+  },
+  "brevorts_biomes:volcano": {
+    "r": 125,
+    "g": 51,
+    "b": 51
+  },
+  "brevorts_biomes:snowy_volcano": {
+    "r": 206,
+    "g": 155,
+    "b": 155
+  },
+  "brevorts_biomes:stony_peaks": {
+    "r": 167,
+    "g": 167,
+    "b": 167
+  },
+  "brevorts_biomes:ferrous_peaks": {
+    "r": 224,
+    "g": 201,
+    "b": 186
+  },
+  "brevorts_biomes:wooded_badlands": {
+    "r": 190,
+    "g": 82,
+    "b": 1
+  },
+  "brevorts_biomes:alpha_fields_winter": {
+    "r": 214,
+    "g": 255,
+    "b": 183
+  },
+  "brevorts_biomes:cloud_forest": {
+    "r": 80,
+    "g": 121,
+    "b": 72
+  },
+  "brevorts_biomes:conifer_grove": {
+    "r": 72,
+    "g": 113,
+    "b": 103
+  },
+  "brevorts_biomes:mountain_grove": {
+    "r": 106,
+    "g": 166,
+    "b": 137
+  },
+  "brevorts_biomes:marsh": {
+    "r": 177,
+    "g": 210,
+    "b": 62
+  },
+  "brevorts_biomes:swamp": {
+    "r": 57,
+    "g": 80,
+    "b": 52
+  },
+  "brevorts_biomes:peat_swamp": {
+    "r": 66,
+    "g": 65,
+    "b": 40
+  },
+  "brevorts_biomes:windswept_savanna": {
+    "r": 168,
+    "g": 203,
+    "b": 27
+  },
+  "brevorts_biomes:windswept_birch_forest": {
+    "r": 226,
+    "g": 255,
+    "b": 128
+  },
+  "brevorts_biomes:rolling_hills": {
+    "r": 130,
+    "g": 145,
+    "b": 128
+  },
+  "brevorts_biomes:frosted_forest": {
+    "r": 97,
+    "g": 89,
+    "b": 61
+  },
+  "brevorts_biomes:frosted_dense_forest": {
+    "r": 176,
+    "g": 205,
+    "b": 175
+  },
+  "brevorts_biomes:nuclear_wasteland": {
+    "r": 109,
+    "g": 241,
+    "b": 31
+  },
+  "brevorts_biomes:flower_field": {
+    "r": 171,
+    "g": 19,
+    "b": 253
+  },
+  "brevorts_biomes:oasis": {
+    "r": 38,
+    "g": 151,
+    "b": 234
+  },
+  "brevorts_biomes:jagged_bluffs": {
+    "r": 210,
+    "g": 210,
+    "b": 210
+  },
+  "brevorts_biomes:gravelly_bluffs": {
+    "r": 170,
+    "g": 170,
+    "b": 170
+  },
+  "brevorts_biomes:tidal_flats": {
+    "r": 64,
+    "g": 48,
+    "b": 0
+  },
+  "brevorts_biomes:dunes": {
+    "r": 249,
+    "g": 244,
+    "b": 72
+  },
+  "brevorts_biomes:foothills": {
+    "r": 237,
+    "g": 35,
+    "b": 96
+  },
+  "brevorts_biomes:glacier": {
+    "r": 32,
+    "g": 240,
+    "b": 215
+  },
+  "brevorts_biomes:lavender_fields": {
+    "r": 214,
+    "g": 164,
+    "b": 255
+  },
+  "brevorts_biomes:pale_orchard": {
+    "r": 159,
+    "g": 159,
+    "b": 159
+  },
+  "brevorts_biomes:plateau": {
+    "r": 11,
+    "g": 60,
+    "b": 13
+  },
+  "brevorts_biomes:highlands": {
+    "r": 132,
+    "g": 94,
+    "b": 43
+  }
+}
