@@ -1,5 +1,8 @@
 {
   "values": [
-    "brevorts_biomes:desert"
+    "brevorts_biomes:desert",
+    "brevorts_biomes:dunes",
+    "brevorts_biomes:polar_desert",
+    "brevorts_biomes:oasis"
   ]
 }

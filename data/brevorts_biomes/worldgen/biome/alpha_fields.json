@@ -9,6 +9,7 @@
     "water_fog_color": 329011,
     "grass_color": 10092393,
     "foliage_color": 8453956,
+    "dry_foliage_color": 8453956,
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
@@ -139,7 +140,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "brevorts_biomes:trees_alpha",

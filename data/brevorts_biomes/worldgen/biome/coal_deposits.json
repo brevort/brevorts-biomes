@@ -6,7 +6,7 @@
     "sky_color": 7907327,
     "fog_color": 12638463,
     "water_color": 7305075,
-    "water_fog_color": 329011,
+    "water_fog_color": 7305075,
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
@@ -154,7 +154,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen",

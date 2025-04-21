@@ -65,6 +65,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "brevorts_biomes:spooky_forest_poi",
+              "decoration": "target_x",
               "zoom": 1,
               "search_radius": 1023
             },
@@ -142,7 +143,8 @@
           "weight": 10,
           "functions": [
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ]
         }
@@ -293,6 +295,22 @@
               "add": false
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 4,
+                "min": 2
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:resin_clump",
+          "weight": 50
         }
       ]
     },

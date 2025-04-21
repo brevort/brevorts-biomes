@@ -378,6 +378,36 @@
               -0.375
             ],
             "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
               -0.555,
               0.55
             ],
@@ -555,7 +585,7 @@
             ],
             "erosion": [
               -1,
-              1
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -667,7 +697,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -817,7 +847,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -907,6 +937,66 @@
           "parameters": {
             "weirdness": [
               -1,
+              0
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              0
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -937,7 +1027,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              0
             ],
             "continentalness": [
               -0.11,
@@ -1129,7 +1219,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -1429,7 +1519,7 @@
             ],
             "temperature": [
               -0.555,
-              -0.15
+              -0.45
             ],
             "humidity": [
               -1,
@@ -1458,7 +1548,7 @@
               1
             ],
             "temperature": [
-              -0.15,
+              -0.45,
               0.2
             ],
             "humidity": [
@@ -1488,8 +1578,8 @@
               1
             ],
             "temperature": [
-              -0.15,
-              0.55
+              -0.45,
+              0.2
             ],
             "humidity": [
               0.1,
@@ -1502,6 +1592,96 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -1562,66 +1742,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -1875,7 +1995,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -2017,15 +2137,15 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              0
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.375,
-              0.05
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -2033,7 +2153,7 @@
             ],
             "humidity": [
               0.1,
-              1
+              0.3
             ],
             "depth": [
               0,
@@ -2041,7 +2161,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:wooded_badlands"
+          "biome": "brevorts_biomes:seasonal_rainforest"
         },
         {
           "parameters": {
@@ -2269,7 +2389,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -2422,7 +2542,7 @@
               0.55
             ],
             "humidity": [
-              -1,
+              -0.35,
               -0.1
             ],
             "depth": [
@@ -2497,6 +2617,36 @@
           "parameters": {
             "weirdness": [
               -1,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -2527,7 +2677,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              0
             ],
             "continentalness": [
               0.03,
@@ -2827,6 +2977,36 @@
           "parameters": {
             "weirdness": [
               -1,
+              0
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -3157,66 +3337,6 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
               -0.93333334
             ],
             "continentalness": [
@@ -3319,7 +3439,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -3392,36 +3512,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:continental_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
         },
         {
           "parameters": {
@@ -3679,7 +3769,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -3949,7 +4039,7 @@
             ],
             "temperature": [
               -1,
-              -0.555
+              -0.15
             ],
             "humidity": [
               -1,
@@ -4069,36 +4159,6 @@
             ],
             "temperature": [
               -0.555,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:volcano"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.555,
               0.2
             ],
             "humidity": [
@@ -4128,12 +4188,12 @@
               -0.78
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
-              -0.35,
-              0.1
+              -1,
+              -0.35
             ],
             "depth": [
               0,
@@ -4141,7 +4201,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:stony_peaks"
+          "biome": "brevorts_biomes:volcano"
         },
         {
           "parameters": {
@@ -4162,7 +4222,7 @@
               0.55
             ],
             "humidity": [
-              0.1,
+              -0.35,
               1
             ],
             "depth": [
@@ -4171,7 +4231,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:ferrous_peaks"
+          "biome": "brevorts_biomes:stony_peaks"
         },
         {
           "parameters": {
@@ -4682,66 +4742,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:lavender_fields"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
         },
         {
           "parameters": {
@@ -4957,6 +4957,36 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
               0
             ],
             "continentalness": [
@@ -5029,7 +5059,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -5179,7 +5209,7 @@
             ],
             "temperature": [
               -1,
-              -0.555
+              -0.15
             ],
             "humidity": [
               -1,
@@ -5239,36 +5269,6 @@
             ],
             "temperature": [
               -0.555,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:volcano"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.19,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.555,
               0.2
             ],
             "humidity": [
@@ -5298,12 +5298,12 @@
               -0.78
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
-              -0.35,
-              0.1
+              -1,
+              -0.35
             ],
             "depth": [
               0,
@@ -5311,7 +5311,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:stony_peaks"
+          "biome": "brevorts_biomes:volcano"
         },
         {
           "parameters": {
@@ -5332,7 +5332,7 @@
               0.55
             ],
             "humidity": [
-              0.1,
+              -0.35,
               1
             ],
             "depth": [
@@ -5341,7 +5341,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:ferrous_peaks"
+          "biome": "brevorts_biomes:stony_peaks"
         },
         {
           "parameters": {
@@ -5432,6 +5432,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:cloud_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
         },
         {
           "parameters": {
@@ -5535,7 +5565,7 @@
             ],
             "erosion": [
               -0.78,
-              1
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -6019,7 +6049,7 @@
             ],
             "temperature": [
               -1,
-              -0.555
+              -0.15
             ],
             "humidity": [
               -1,
@@ -6079,36 +6109,6 @@
             ],
             "temperature": [
               -0.555,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:volcano"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -0.555,
               0.2
             ],
             "humidity": [
@@ -6138,12 +6138,12 @@
               -0.375
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
-              -0.35,
-              0.1
+              -1,
+              -0.35
             ],
             "depth": [
               0,
@@ -6151,7 +6151,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:stony_peaks"
+          "biome": "brevorts_biomes:volcano"
         },
         {
           "parameters": {
@@ -6172,7 +6172,7 @@
               0.55
             ],
             "humidity": [
-              0.1,
+              -0.35,
               1
             ],
             "depth": [
@@ -6181,7 +6181,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:ferrous_peaks"
+          "biome": "brevorts_biomes:stony_peaks"
         },
         {
           "parameters": {
@@ -6307,7 +6307,7 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              -0.4
+              1
             ],
             "continentalness": [
               0.03,
@@ -6379,7 +6379,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -6452,6 +6452,66 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:temperate_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.4
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
         },
         {
           "parameters": {
@@ -6645,7 +6705,7 @@
             ],
             "erosion": [
               -1,
-              1
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -6727,7 +6787,7 @@
           "parameters": {
             "weirdness": [
               -0.56666666,
-              -0.26666668
+              0.56666666
             ],
             "continentalness": [
               -0.11,
@@ -6799,7 +6859,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -7267,7 +7327,7 @@
           "parameters": {
             "weirdness": [
               -0.56666666,
-              -0.4
+              0.56666666
             ],
             "continentalness": [
               0.03,
@@ -7339,7 +7399,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -7549,7 +7609,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -7669,7 +7729,7 @@
             ],
             "temperature": [
               -0.555,
-              -0.15
+              -0.45
             ],
             "humidity": [
               -1,
@@ -7698,7 +7758,7 @@
               1
             ],
             "temperature": [
-              -0.15,
+              -0.45,
               0.2
             ],
             "humidity": [
@@ -7728,8 +7788,8 @@
               1
             ],
             "temperature": [
-              -0.15,
-              0.55
+              -0.45,
+              0.2
             ],
             "humidity": [
               0.1,
@@ -7742,6 +7802,96 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -7772,66 +7922,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:oasis"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -8077,7 +8167,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.26666668
+              0.4
             ],
             "continentalness": [
               0.03,
@@ -8085,7 +8175,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -8227,36 +8317,6 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
               0
             ],
             "continentalness": [
@@ -8389,7 +8449,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -8707,23 +8767,23 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
+              1
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.78
             ],
             "temperature": [
               0.55,
               1
             ],
             "humidity": [
-              0.3,
-              1
+              0.1,
+              0.3
             ],
             "depth": [
               0,
@@ -8797,6 +8857,66 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
+              0
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:seasonal_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
               1
             ],
             "continentalness": [
@@ -8822,36 +8942,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:frozen_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
-              0
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:savanna"
         },
         {
           "parameters": {
@@ -9067,36 +9157,6 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
               0.26666668
             ],
             "continentalness": [
@@ -9127,7 +9187,7 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
+              1
             ],
             "continentalness": [
               0.03,
@@ -9135,15 +9195,15 @@
             ],
             "erosion": [
               -0.78,
-              0.05
+              -0.375
             ],
             "temperature": [
               0.55,
               1
             ],
             "humidity": [
-              0.3,
-              1
+              0.1,
+              0.3
             ],
             "depth": [
               0,
@@ -9259,7 +9319,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -9457,36 +9517,6 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
               0
             ],
             "continentalness": [
@@ -9602,6 +9632,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:dunes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -10072,36 +10132,6 @@
               0.55
             ],
             "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:savanna"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
               -0.1,
               0.1
             ],
@@ -10112,6 +10142,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:dry_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -10447,6 +10507,66 @@
           "parameters": {
             "weirdness": [
               0,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
               0.4
             ],
             "continentalness": [
@@ -10532,36 +10652,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:conifer_grove"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -10844,6 +10934,96 @@
               1
             ],
             "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
               0.05,
               0.45
             ],
@@ -10982,36 +11162,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:conifer_grove"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.56666666
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -11252,6 +11402,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -11542,7 +11722,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -11852,66 +12032,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -12593,36 +12713,6 @@
             ],
             "humidity": [
               0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
               1
             ],
             "depth": [
@@ -13202,66 +13292,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:lavender_fields"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -14175,36 +14205,6 @@
             ],
             "erosion": [
               0.45,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.45,
               0.55
             ],
             "temperature": [
@@ -14212,7 +14212,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -14522,6 +14522,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:seasonal_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
         },
         {
           "parameters": {
@@ -15247,7 +15277,7 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              0.93333334
+              1
             ],
             "continentalness": [
               0.03,
@@ -15469,7 +15499,7 @@
             ],
             "temperature": [
               -0.555,
-              -0.15
+              -0.45
             ],
             "humidity": [
               -1,
@@ -15498,7 +15528,7 @@
               1
             ],
             "temperature": [
-              -0.15,
+              -0.45,
               0.2
             ],
             "humidity": [
@@ -15528,8 +15558,8 @@
               1
             ],
             "temperature": [
-              -0.15,
-              0.55
+              -0.45,
+              0.2
             ],
             "humidity": [
               0.1,
@@ -15542,6 +15572,66 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -15572,66 +15662,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:oasis"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -15855,7 +15885,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -15962,36 +15992,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:foothills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
         },
         {
           "parameters": {
@@ -16608,6 +16608,36 @@
               -0.375
             ],
             "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.7666667
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
               -0.555,
               0.55
             ],
@@ -16785,7 +16815,7 @@
             ],
             "erosion": [
               -1,
-              1
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -16897,7 +16927,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -17047,7 +17077,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              -0.26666668
             ],
             "continentalness": [
               -0.11,
@@ -17137,6 +17167,66 @@
           "parameters": {
             "weirdness": [
               -1,
+              0
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              0
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -0.35,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -17167,7 +17257,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              0
             ],
             "continentalness": [
               -0.11,
@@ -17359,7 +17449,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -17659,7 +17749,7 @@
             ],
             "temperature": [
               -0.555,
-              -0.15
+              -0.45
             ],
             "humidity": [
               -1,
@@ -17688,7 +17778,7 @@
               1
             ],
             "temperature": [
-              -0.15,
+              -0.45,
               0.2
             ],
             "humidity": [
@@ -17718,8 +17808,8 @@
               1
             ],
             "temperature": [
-              -0.15,
-              0.55
+              -0.45,
+              0.2
             ],
             "humidity": [
               0.1,
@@ -17732,6 +17822,96 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -17792,66 +17972,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -18105,7 +18225,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -18247,15 +18367,15 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.93333334
+              0
             ],
             "continentalness": [
               0.03,
-              0.3
+              1
             ],
             "erosion": [
               -0.375,
-              0.05
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -18263,7 +18383,7 @@
             ],
             "humidity": [
               0.1,
-              1
+              0.3
             ],
             "depth": [
               1,
@@ -18271,7 +18391,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:wooded_badlands"
+          "biome": "brevorts_biomes:seasonal_rainforest"
         },
         {
           "parameters": {
@@ -18499,7 +18619,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -18652,7 +18772,7 @@
               0.55
             ],
             "humidity": [
-              -1,
+              -0.35,
               -0.1
             ],
             "depth": [
@@ -18727,6 +18847,36 @@
           "parameters": {
             "weirdness": [
               -1,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -18757,7 +18907,7 @@
           "parameters": {
             "weirdness": [
               -1,
-              1
+              0
             ],
             "continentalness": [
               0.03,
@@ -19057,6 +19207,36 @@
           "parameters": {
             "weirdness": [
               -1,
+              0
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
               -0.26666668
             ],
             "continentalness": [
@@ -19387,66 +19567,6 @@
           "parameters": {
             "weirdness": [
               -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
               -0.93333334
             ],
             "continentalness": [
@@ -19549,7 +19669,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -19622,36 +19742,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:continental_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
         },
         {
           "parameters": {
@@ -19909,7 +19999,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -20179,7 +20269,7 @@
             ],
             "temperature": [
               -1,
-              -0.555
+              -0.15
             ],
             "humidity": [
               -1,
@@ -20299,36 +20389,6 @@
             ],
             "temperature": [
               -0.555,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:volcano"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.555,
               0.2
             ],
             "humidity": [
@@ -20358,12 +20418,12 @@
               -0.78
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
-              -0.35,
-              0.1
+              -1,
+              -0.35
             ],
             "depth": [
               1,
@@ -20371,7 +20431,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:stony_peaks"
+          "biome": "brevorts_biomes:volcano"
         },
         {
           "parameters": {
@@ -20392,7 +20452,7 @@
               0.55
             ],
             "humidity": [
-              0.1,
+              -0.35,
               1
             ],
             "depth": [
@@ -20401,7 +20461,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:ferrous_peaks"
+          "biome": "brevorts_biomes:stony_peaks"
         },
         {
           "parameters": {
@@ -20912,66 +20972,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:lavender_fields"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              -0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
         },
         {
           "parameters": {
@@ -21187,6 +21187,36 @@
           "parameters": {
             "weirdness": [
               -0.93333334,
+              -0.4
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.93333334,
               0
             ],
             "continentalness": [
@@ -21259,7 +21289,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -21409,7 +21439,7 @@
             ],
             "temperature": [
               -1,
-              -0.555
+              -0.15
             ],
             "humidity": [
               -1,
@@ -21469,36 +21499,6 @@
             ],
             "temperature": [
               -0.555,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:volcano"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              -0.19,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              -0.555,
               0.2
             ],
             "humidity": [
@@ -21528,12 +21528,12 @@
               -0.78
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
-              -0.35,
-              0.1
+              -1,
+              -0.35
             ],
             "depth": [
               1,
@@ -21541,7 +21541,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:stony_peaks"
+          "biome": "brevorts_biomes:volcano"
         },
         {
           "parameters": {
@@ -21562,7 +21562,7 @@
               0.55
             ],
             "humidity": [
-              0.1,
+              -0.35,
               1
             ],
             "depth": [
@@ -21571,7 +21571,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:ferrous_peaks"
+          "biome": "brevorts_biomes:stony_peaks"
         },
         {
           "parameters": {
@@ -21662,6 +21662,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:cloud_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
         },
         {
           "parameters": {
@@ -21765,7 +21795,7 @@
             ],
             "erosion": [
               -0.78,
-              1
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -22249,7 +22279,7 @@
             ],
             "temperature": [
               -1,
-              -0.555
+              -0.15
             ],
             "humidity": [
               -1,
@@ -22309,36 +22339,6 @@
             ],
             "temperature": [
               -0.555,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.35
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:volcano"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.7666667,
-              -0.56666666
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              -0.555,
               0.2
             ],
             "humidity": [
@@ -22368,12 +22368,12 @@
               -0.375
             ],
             "temperature": [
-              0.2,
+              -0.15,
               0.55
             ],
             "humidity": [
-              -0.35,
-              0.1
+              -1,
+              -0.35
             ],
             "depth": [
               1,
@@ -22381,7 +22381,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:stony_peaks"
+          "biome": "brevorts_biomes:volcano"
         },
         {
           "parameters": {
@@ -22402,7 +22402,7 @@
               0.55
             ],
             "humidity": [
-              0.1,
+              -0.35,
               1
             ],
             "depth": [
@@ -22411,7 +22411,7 @@
             ],
             "offset": 0
           },
-          "biome": "brevorts_biomes:ferrous_peaks"
+          "biome": "brevorts_biomes:stony_peaks"
         },
         {
           "parameters": {
@@ -22537,7 +22537,7 @@
           "parameters": {
             "weirdness": [
               -0.7666667,
-              -0.4
+              1
             ],
             "continentalness": [
               0.03,
@@ -22609,7 +22609,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -22682,6 +22682,66 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:temperate_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.7666667,
+              -0.4
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.35
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:scrubland"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.56666666,
+              0.56666666
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
         },
         {
           "parameters": {
@@ -22875,7 +22935,7 @@
             ],
             "erosion": [
               -1,
-              1
+              -0.375
             ],
             "temperature": [
               0.2,
@@ -22957,7 +23017,7 @@
           "parameters": {
             "weirdness": [
               -0.56666666,
-              -0.26666668
+              0.56666666
             ],
             "continentalness": [
               -0.11,
@@ -23029,7 +23089,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -23497,7 +23557,7 @@
           "parameters": {
             "weirdness": [
               -0.56666666,
-              -0.4
+              0.56666666
             ],
             "continentalness": [
               0.03,
@@ -23569,7 +23629,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -23779,7 +23839,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -23899,7 +23959,7 @@
             ],
             "temperature": [
               -0.555,
-              -0.15
+              -0.45
             ],
             "humidity": [
               -1,
@@ -23928,7 +23988,7 @@
               1
             ],
             "temperature": [
-              -0.15,
+              -0.45,
               0.2
             ],
             "humidity": [
@@ -23958,8 +24018,8 @@
               1
             ],
             "temperature": [
-              -0.15,
-              0.55
+              -0.45,
+              0.2
             ],
             "humidity": [
               0.1,
@@ -23972,6 +24032,96 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -24002,66 +24152,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:oasis"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
-              0.4
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -24307,7 +24397,7 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              -0.26666668
+              0.4
             ],
             "continentalness": [
               0.03,
@@ -24315,7 +24405,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -24457,36 +24547,6 @@
           "parameters": {
             "weirdness": [
               -0.4,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.4,
               0
             ],
             "continentalness": [
@@ -24619,7 +24679,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -24937,23 +24997,23 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
+              1
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.78
             ],
             "temperature": [
               0.55,
               1
             ],
             "humidity": [
-              0.3,
-              1
+              0.1,
+              0.3
             ],
             "depth": [
               1,
@@ -25027,6 +25087,66 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
+              0
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:seasonal_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.26666668,
               1
             ],
             "continentalness": [
@@ -25052,36 +25172,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:frozen_forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
-              0
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -0.375,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:savanna"
         },
         {
           "parameters": {
@@ -25297,36 +25387,6 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
               0.26666668
             ],
             "continentalness": [
@@ -25357,7 +25417,7 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
+              1
             ],
             "continentalness": [
               0.03,
@@ -25365,15 +25425,15 @@
             ],
             "erosion": [
               -0.78,
-              0.05
+              -0.375
             ],
             "temperature": [
               0.55,
               1
             ],
             "humidity": [
-              0.3,
-              1
+              0.1,
+              0.3
             ],
             "depth": [
               1,
@@ -25489,7 +25549,7 @@
             ],
             "temperature": [
               -0.45,
-              0.2
+              0.55
             ],
             "humidity": [
               -1,
@@ -25687,36 +25747,6 @@
           "parameters": {
             "weirdness": [
               -0.26666668,
-              0.26666668
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.26666668,
               0
             ],
             "continentalness": [
@@ -25832,6 +25862,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:dunes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0.26666668
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -26302,36 +26362,6 @@
               0.55
             ],
             "humidity": [
-              -1,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:savanna"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
               -0.1,
               0.1
             ],
@@ -26342,6 +26372,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:dry_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -26677,6 +26737,66 @@
           "parameters": {
             "weirdness": [
               0,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0.26666668
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.55
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
               0.4
             ],
             "continentalness": [
@@ -26762,36 +26882,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:conifer_grove"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.56666666
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              -1,
-              -0.78
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -27074,6 +27164,96 @@
               1
             ],
             "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              -0.375
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:wooded_badlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.375,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
               0.05,
               0.45
             ],
@@ -27212,36 +27392,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:conifer_grove"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              0.56666666
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.78,
-              -0.375
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -27482,6 +27632,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.26666668,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -27772,7 +27952,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -28082,66 +28262,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.26666668,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -28823,36 +28943,6 @@
             ],
             "humidity": [
               0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
               1
             ],
             "depth": [
@@ -29432,66 +29522,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:lavender_fields"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93333334
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              -0.2225
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:tropical_rainforest"
         },
         {
           "parameters": {
@@ -30405,36 +30435,6 @@
             ],
             "erosion": [
               0.45,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:seasonal_rainforest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.56666666,
-              0.7666667
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.45,
               0.55
             ],
             "temperature": [
@@ -30442,7 +30442,7 @@
               1
             ],
             "humidity": [
-              0.3,
+              0.1,
               1
             ],
             "depth": [
@@ -30752,6 +30752,36 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:seasonal_rainforest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.7666667,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -1,
+              -0.555
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:glacier"
         },
         {
           "parameters": {
@@ -31477,7 +31507,7 @@
           "parameters": {
             "weirdness": [
               0.7666667,
-              0.93333334
+              1
             ],
             "continentalness": [
               0.03,
@@ -31699,7 +31729,7 @@
             ],
             "temperature": [
               -0.555,
-              -0.15
+              -0.45
             ],
             "humidity": [
               -1,
@@ -31728,7 +31758,7 @@
               1
             ],
             "temperature": [
-              -0.15,
+              -0.45,
               0.2
             ],
             "humidity": [
@@ -31758,8 +31788,8 @@
               1
             ],
             "temperature": [
-              -0.15,
-              0.55
+              -0.45,
+              0.2
             ],
             "humidity": [
               0.1,
@@ -31772,6 +31802,66 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:swamp"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93333334,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              0.2,
+              1
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -31802,66 +31892,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:oasis"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              0.3
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.3,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:peat_swamp"
         },
         {
           "parameters": {
@@ -32085,7 +32115,7 @@
             ],
             "erosion": [
               -1,
-              -0.375
+              -0.2225
             ],
             "temperature": [
               0.55,
@@ -32192,36 +32222,6 @@
             "offset": 0
           },
           "biome": "brevorts_biomes:foothills"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93333334,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              0.55,
-              1
-            ],
-            "humidity": [
-              0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "brevorts_biomes:wooded_badlands"
         },
         {
           "parameters": {
@@ -32463,414 +32463,414 @@
           },
           "biome": "brevorts_biomes:plains"
         },
-        {
-          "biome": "brevorts_biomes:coal_deposits",
-          "parameters": {
-            "temperature": [
-              -0.5,
-              0.5
-            ],
-            "humidity": [
-              -0.5,
-              0.5
-            ],
-            "continentalness": [
-              0.45,
-              1
-            ],
-            "erosion": [
-              0.9,
-              1
-            ],
-            "weirdness": [
-              -0.15,
-              0.15
-            ],
-            "depth": [
-              0.1,
-              0.3
-            ],
-            "offset": 0
+          {
+            "biome": "brevorts_biomes:coal_deposits",
+            "parameters": {
+              "temperature": [
+                -0.5,
+                0.5
+              ],
+              "humidity": [
+                -0.5,
+                0.5
+              ],
+              "continentalness": [
+                0.45,
+                1
+              ],
+              "erosion": [
+                0.9,
+                1
+              ],
+              "weirdness": [
+                -0.15,
+                0.15
+              ],
+              "depth": [
+                0.1,
+                0.3
+              ],
+              "offset": 0
+            }
+          },
+          {
+            "biome": "brevorts_biomes:ice_caves",
+            "parameters": {
+              "temperature": [
+                -1,
+                -0.75
+              ],
+              "humidity": [
+                0.25,
+                0.5
+              ],
+              "continentalness": [
+                -0.7,
+                0.5
+              ],
+              "erosion": [
+                0,
+                0.8
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.1,
+                0.9
+              ],
+              "offset": 0.2
+            }
+          },
+          {
+            "biome": "brevorts_biomes:hot_springs",
+            "parameters": {
+              "temperature": [
+                0.2,
+                0.55
+              ],
+              "humidity": [
+                -0.6,
+                0.6
+              ],
+              "continentalness": [
+                0.35,
+                0.8
+              ],
+              "erosion": [
+                0.35,
+                0.6
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.05,
+                0.95
+              ],
+              "offset": 0
+            }
+          },
+          {
+            "biome": "brevorts_biomes:fungal_caverns",
+            "parameters": {
+              "temperature": [
+                0.2,
+                1
+              ],
+              "humidity": [
+                0.9,
+                1
+              ],
+              "continentalness": [
+                -2,
+                0.75
+              ],
+              "erosion": [
+                -0.25,
+                0.25
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.3,
+                0.95
+              ],
+              "offset": 0.02
+            }
+          },
+          {
+            "biome": "brevorts_biomes:glowworm_caves",
+            "parameters": {
+              "temperature": [
+                -0.2,
+                0.25
+              ],
+              "humidity": [
+                -0.1,
+                0.2
+              ],
+              "continentalness": [
+                0,
+                0.35
+              ],
+              "erosion": [
+                0.05,
+                0.45
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.1,
+                0.7
+              ],
+              "offset": 0.35
+            }
+          },
+          {
+            "biome": "brevorts_biomes:crystal_caves",
+            "parameters": {
+              "temperature": [
+                0.25,
+                1
+              ],
+              "humidity": [
+                -1,
+                0.9
+              ],
+              "continentalness": [
+                0,
+                0.35
+              ],
+              "erosion": [
+                0,
+                0.35
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.1,
+                0.9
+              ],
+              "offset": 0.35
+            }
+          },
+          {
+            "biome": "brevorts_biomes:oceanic_abyss",
+            "parameters": {
+              "temperature": [
+                -1,
+                1
+              ],
+              "humidity": [
+                -1,
+                0.9
+              ],
+              "continentalness": [
+                -0.8,
+                -0.7
+              ],
+              "erosion": [
+                -1,
+                1
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.02,
+                0.4
+              ],
+              "offset": 0
+            }
+          },
+          {
+            "biome": "brevorts_biomes:andesite_caves",
+            "parameters": {
+              "temperature": [
+                -1,
+                1
+              ],
+              "humidity": [
+                -0.6,
+                0
+              ],
+              "continentalness": [
+                0.7,
+                1
+              ],
+              "erosion": [
+                -1,
+                -0.375
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.1,
+                0.2
+              ],
+              "offset": 0
+            }
+          },
+          {
+            "biome": "brevorts_biomes:diorite_caves",
+            "parameters": {
+              "temperature": [
+                -0.45,
+                0
+              ],
+              "humidity": [
+                -1,
+                0.9
+              ],
+              "continentalness": [
+                0,
+                0.35
+              ],
+              "erosion": [
+                -0.375,
+                0
+              ],
+              "weirdness": [
+                -0.1,
+                0
+              ],
+              "depth": 0.1,
+              "offset": 0.05
+            }
+          },
+          {
+            "biome": "brevorts_biomes:granite_caves",
+            "parameters": {
+              "temperature": [
+                -0.45,
+                0
+              ],
+              "humidity": [
+                -1,
+                0.9
+              ],
+              "continentalness": [
+                0,
+                0.35
+              ],
+              "erosion": [
+                -0.375,
+                0
+              ],
+              "weirdness": [
+                0,
+                0.1
+              ],
+              "depth": 0.1,
+              "offset": 0.05
+            }
+          },
+          {
+            "biome": "brevorts_biomes:magmatic_caves",
+            "parameters": {
+              "temperature": [
+                -1,
+                1
+              ],
+              "humidity": [
+                -1,
+                1
+              ],
+              "continentalness": [
+                -1,
+                1
+              ],
+              "erosion": [
+                0.45,
+                0.55
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [1,1.1],
+              "offset": 0.01
+            }
+          },  
+          {
+            "biome": "minecraft:dripstone_caves",
+            "parameters": {
+              "temperature": [
+                -0.75,
+                0.2
+              ],
+              "humidity": [
+                0,
+                0.9
+              ],
+              "continentalness": [
+                0.8,
+                1
+              ],
+              "erosion": [
+                -1,
+                0.9
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.2,
+                0.9
+              ],
+              "offset": 0.2
+            }
+          },
+          {
+            "biome": "minecraft:lush_caves",
+            "parameters": {
+              "temperature": [
+                -0.555,
+                0.2
+              ],
+              "humidity": [
+                0.9,
+                1
+              ],
+              "continentalness": [
+                -0.125,
+                0.8
+              ],
+              "erosion": [
+                -1,
+                0.9
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": [
+                0.2,
+                0.9
+              ],
+              "offset": 0
+            }
+          },
+          {
+            "biome": "minecraft:deep_dark",
+            "parameters": {
+              "temperature": [
+                -1,
+                1
+              ],
+              "humidity": [
+                -1,
+                1
+              ],
+              "continentalness": [
+                0,
+                1
+              ],
+              "erosion": [
+                -1,
+                -0.2225
+              ],
+              "weirdness": [
+                -1,
+                1
+              ],
+              "depth": 1.1,
+              "offset": 0
+            }
           }
-        },
-        {
-          "biome": "brevorts_biomes:ice_caves",
-          "parameters": {
-            "temperature": [
-              -1,
-              -0.75
-            ],
-            "humidity": [
-              0.25,
-              0.5
-            ],
-            "continentalness": [
-              -0.7,
-              0.5
-            ],
-            "erosion": [
-              0,
-              0.8
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.1,
-              0.9
-            ],
-            "offset": 0.2
-          }
-        },
-        {
-          "biome": "brevorts_biomes:hot_springs",
-          "parameters": {
-            "temperature": [
-              0.2,
-              0.55
-            ],
-            "humidity": [
-              -0.6,
-              0.6
-            ],
-            "continentalness": [
-              0.35,
-              0.8
-            ],
-            "erosion": [
-              0.35,
-              0.6
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.05,
-              0.95
-            ],
-            "offset": 0
-          }
-        },
-        {
-          "biome": "brevorts_biomes:fungal_caverns",
-          "parameters": {
-            "temperature": [
-              0.2,
-              1
-            ],
-            "humidity": [
-              0.9,
-              1
-            ],
-            "continentalness": [
-              -2,
-              0.75
-            ],
-            "erosion": [
-              -0.25,
-              0.25
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.3,
-              0.95
-            ],
-            "offset": 0.02
-          }
-        },
-        {
-          "biome": "brevorts_biomes:glowworm_caves",
-          "parameters": {
-            "temperature": [
-              -0.2,
-              0.25
-            ],
-            "humidity": [
-              -0.1,
-              0.2
-            ],
-            "continentalness": [
-              0,
-              0.35
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.1,
-              0.7
-            ],
-            "offset": 0.35
-          }
-        },
-        {
-          "biome": "brevorts_biomes:crystal_caves",
-          "parameters": {
-            "temperature": [
-              0.25,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.9
-            ],
-            "continentalness": [
-              0,
-              0.35
-            ],
-            "erosion": [
-              0,
-              0.35
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.1,
-              0.9
-            ],
-            "offset": 0.35
-          }
-        },
-        {
-          "biome": "brevorts_biomes:oceanic_abyss",
-          "parameters": {
-            "temperature": [
-              -1,
-              1
-            ],
-            "humidity": [
-              -1,
-              0.9
-            ],
-            "continentalness": [
-              -0.8,
-              -0.7
-            ],
-            "erosion": [
-              -1,
-              1
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.02,
-              0.4
-            ],
-            "offset": 0
-          }
-        },
-        {
-          "biome": "brevorts_biomes:andesite_caves",
-          "parameters": {
-            "temperature": [
-              -1,
-              1
-            ],
-            "humidity": [
-              -0.6,
-              0
-            ],
-            "continentalness": [
-              0.7,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.05,
-              0.2
-            ],
-            "offset": 0
-          }
-        },
-        {
-          "biome": "brevorts_biomes:diorite_caves",
-          "parameters": {
-            "temperature": [
-              -0.45,
-              0
-            ],
-            "humidity": [
-              -1,
-              0.9
-            ],
-            "continentalness": [
-              0,
-              0.35
-            ],
-            "erosion": [
-              -0.375,
-              0
-            ],
-            "weirdness": [
-              -0.1,
-              0
-            ],
-            "depth": 0.1,
-            "offset": 0.05
-          }
-        },
-        {
-          "biome": "brevorts_biomes:granite_caves",
-          "parameters": {
-            "temperature": [
-              -0.45,
-              0
-            ],
-            "humidity": [
-              -1,
-              0.9
-            ],
-            "continentalness": [
-              0,
-              0.35
-            ],
-            "erosion": [
-              -0.375,
-              0
-            ],
-            "weirdness": [
-              0,
-              0.1
-            ],
-            "depth": 0.1,
-            "offset": 0.05
-          }
-        },
-        {
-          "biome": "brevorts_biomes:magmatic_caves",
-          "parameters": {
-            "temperature": [
-              -1,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              -1,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [1,1.1],
-            "offset": 0.01
-          }
-        },  
-        {
-          "biome": "minecraft:dripstone_caves",
-          "parameters": {
-            "temperature": [
-              -0.75,
-              0.2
-            ],
-            "humidity": [
-              0,
-              0.9
-            ],
-            "continentalness": [
-              0.8,
-              1
-            ],
-            "erosion": [
-              -1,
-              0.9
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0.2
-          }
-        },
-        {
-          "biome": "minecraft:lush_caves",
-          "parameters": {
-            "temperature": [
-              -0.555,
-              0.2
-            ],
-            "humidity": [
-              0.9,
-              1
-            ],
-            "continentalness": [
-              -0.125,
-              0.8
-            ],
-            "erosion": [
-              -1,
-              0.9
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0.2,
-              0.9
-            ],
-            "offset": 0
-          }
-        },
-        {
-          "biome": "minecraft:deep_dark",
-          "parameters": {
-            "temperature": [
-              -1,
-              1
-            ],
-            "humidity": [
-              -1,
-              1
-            ],
-            "continentalness": [
-              0,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.2225
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": 1.1,
-            "offset": 0
-          }
-        }
       ],
       "type": "minecraft:multi_noise"
     },

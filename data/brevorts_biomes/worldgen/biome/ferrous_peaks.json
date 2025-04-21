@@ -139,7 +139,7 @@
       "minecraft:ore_coal_upper",
       "minecraft:ore_coal_lower",
       "minecraft:ore_coal_deep",
-      "minecraft:ore_iron_upper",
+      "brevorts_biomes:ore_iron_upper_ferrous_peaks",
       "minecraft:ore_iron_middle",
       "minecraft:ore_iron_small",
       "minecraft:ore_gold",
@@ -167,7 +167,7 @@
     ],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen"

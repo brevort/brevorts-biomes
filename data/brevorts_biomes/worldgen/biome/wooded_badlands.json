@@ -7,7 +7,7 @@
     "sky_color": 7254527,
     "fog_color": 12638463,
     "water_color": 8547670,
-    "water_fog_color": 5144449,
+    "water_fog_color": 8547670,
     "grass_color": 9470285,
     "foliage_color": 10387789,
     "mood_sound": {
@@ -200,12 +200,13 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "minecraft:ore_magma_overworld"
+      "minecraft:ore_magma_overworld",
+      "brevorts_biomes:raw_gold_scattered"
     ],
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen",

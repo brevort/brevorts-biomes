@@ -205,7 +205,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:patch_melon_sparse",

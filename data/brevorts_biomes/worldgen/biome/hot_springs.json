@@ -185,7 +185,8 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava",
+      "brevorts_biomes:spring_closed_hot_springs"
     ],
     [
       "minecraft:glow_lichen",

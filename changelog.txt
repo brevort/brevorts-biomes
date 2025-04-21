@@ -1,0 +1,31 @@
+Beta 1.10.1 - Metacraft Hotfix
+April 12, 2025
+Beta 1.10.1 Pre-Release 1
+Changes
+World Generation
+Peat Swamps can now generate in lower temperatures
+Swamps can now generate in lower temperatures
+Tropical Rainforests and Cloud Forests can generate in lower humidity in positive weirdness
+Tweaked the way bluffs are placed to avoid snowless bluffs slicing through frozen biomes
+Tweaked warm biome placement in low areas with low erosion
+Biome Exploration Maps
+Updated some biomes names
+Loot Tables
+Iron ore and deepslate iron ore now drop more, like copper
+Fixes
+Fixed a bug where Warm Ocean maps wouldn’t lead to Warm Oceans
+Fixed a bug where buried Trial Chambers weren’t granting the Minecraft: Trial(s) Edition advancement
+Fixed a bug where some explorer maps had the wrong destination icon
+Fixed a bug where Resin could not be found in Woodland Mansion chests
+Known issues
+Some biomes cause a message to get spammed in the server log
+Cave biomes cannot be located from the surface
+When a carver cave below -182 intersects a noise cave, the lava doesn’t immediately start flowing
+On the Radar
+Terrain Revamp
+Custom Trial Chambers
+
+
+- Brevort
+
+

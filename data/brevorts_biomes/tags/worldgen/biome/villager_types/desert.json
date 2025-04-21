@@ -1,0 +1,12 @@
+{
+    "values": [
+      "minecraft:badlands",
+      "minecraft:desert",
+      "minecraft:wooded_badlands",
+      "minecraft:eroded_badlands",
+      "brevorts_biomes:badlands",
+      "brevorts_biomes:desert",
+      "brevorts_biomes:oasis",
+      "brevorts_biomes:wooded_badlands"
+    ]
+  }

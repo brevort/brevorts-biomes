@@ -112,7 +112,7 @@
 "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
-"minecraft:cave_surface",
+    "minecraft:cave_surface",
     "minecraft:canyon"
   ],
   "features": [
@@ -122,7 +122,8 @@
     ],
     [    ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "brevorts_biomes:geode_buffed"
     ],
     [
       "minecraft:monster_room",

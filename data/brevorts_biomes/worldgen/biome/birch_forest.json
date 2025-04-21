@@ -8,6 +8,7 @@
     "water_color": 3042997,
     "water_fog_color": 329011,
     "foliage_color": 8636714,
+    "dry_foliage_color": 9805113,
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
@@ -179,7 +180,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
+      "brevorts_biomes:spring_lava",
       "minecraft:patch_pumpkin"
     ],
     [

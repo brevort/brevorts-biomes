@@ -23,7 +23,7 @@
             {
               "function": "minecraft:set_name",
               "target": "item_name",
-              "name": "Mountain Peaks Explorer Map"
+              "name": "Lofty Peaks Explorer Map"
             },
             {
               "function": "minecraft:set_components",
@@ -123,7 +123,7 @@
             {
               "function": "minecraft:set_name",
               "target": "item_name",
-              "name": "Coniferous Mountains Explorer Map"
+              "name": "Conifer Grove Explorer Map"
             },
             {
               "function": "minecraft:set_components",
@@ -141,13 +141,14 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "brevorts_biomes:vegetated_mountains_poi",
+              "decoration": "target_x",
               "zoom": 2,
               "search_radius": 1023
             },
             {
               "function": "minecraft:set_name",
               "target": "item_name",
-              "name": "Vegetated Mountains Explorer Map"
+              "name": "Mountain Grove Explorer Map"
             },
             {
               "function": "minecraft:set_components",
@@ -338,7 +339,8 @@
           "name": "minecraft:book",
           "functions": [
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ]
         }

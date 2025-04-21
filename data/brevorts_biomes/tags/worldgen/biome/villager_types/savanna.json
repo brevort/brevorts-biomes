@@ -1,0 +1,13 @@
+{
+    "values": [
+      "minecraft:savanna_plateau",
+      "minecraft:savanna",
+      "minecraft:windswept_savanna",
+      "brevorts_biomes:dry_forest",
+      "brevorts_biomes:hot_springs",
+      "brevorts_biomes:nuclear_wasteland",
+      "brevorts_biomes:savanna",
+      "brevorts_biomes:volcano",
+      "brevorts_biomes:windswept_savanna"
+    ]
+  }

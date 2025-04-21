@@ -1,6 +1,6 @@
 {
   "temperature": 0.15,
-  "downfall": 0.6,
+  "downfall": 0.0,
   "has_precipitation": true,
   "effects": {
     "sky_color": 3632639,
@@ -191,7 +191,7 @@
     ],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen",

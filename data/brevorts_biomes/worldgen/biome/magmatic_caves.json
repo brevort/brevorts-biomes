@@ -103,7 +103,8 @@
       "brevorts_biomes:lava_pool_deep"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "brevorts_biomes:geode_buffed"
     ],
     [
       "minecraft:monster_room",
@@ -149,7 +150,7 @@
     ],
     [],
     [
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen"

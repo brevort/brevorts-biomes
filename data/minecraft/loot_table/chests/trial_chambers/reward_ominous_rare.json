@@ -122,9 +122,9 @@
           "name": "minecraft:map",
           "functions": [
             {
-              "function": "minecraft:exploration_map",
+              "function": "exploration_map",
               "destination": "brevorts_biomes:deep_dark_poi",
-              "decoration": "target_x",
+              "decoration": "red_x",
               "zoom": 2,
               "search_radius": 1023
             },

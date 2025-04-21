@@ -129,6 +129,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "brevorts_biomes:snowy_volcano_poi",
+              "decoration": "target_x",
               "zoom": 2,
               "search_radius": 1023
             },

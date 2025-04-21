@@ -746,7 +746,8 @@
                       "type": "minecraft:biome",
                       "biome_is": [
                         "minecraft:mangrove_swamp",
-                        "brevorts_biomes:tidal_flats"
+                        "brevorts_biomes:tidal_flats",
+                        "brevorts_biomes:peat_swamp"
                       ]
                     },
                     "then_run": {
@@ -1753,6 +1754,28 @@
                           }
                         },
                         {
+                          "type": "minecraft:condition",
+                          "if_true": {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "brevorts_biomes:andesite_caves",
+                              "brevorts_biomes:diorite_caves",
+                              "brevorts_biomes:granite_caves"
+                            ]
+                          },
+                          "then_run": {
+                            "type": "minecraft:sequence",
+                            "sequence": [
+                              {
+                                "type": "minecraft:block",
+                                "result_state": {
+                                  "Name": "minecraft:stone"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
                           "type": "minecraft:sequence",
                           "sequence": [
                             {
@@ -1861,6 +1884,7 @@
                                 ]
                               }
                             },
+
                             {
                               "type": "minecraft:condition",
                               "if_true": {
@@ -2552,7 +2576,8 @@
                             "type": "minecraft:biome",
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "brevorts_biomes:tidal_flats"
+                              "brevorts_biomes:tidal_flats",
+                              "brevorts_biomes:peat_swamp"
                             ]
                           },
                           "then_run": {
@@ -3064,6 +3089,28 @@
                           }
                         },
                         {
+                          "type": "minecraft:condition",
+                          "if_true": {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "brevorts_biomes:andesite_caves",
+                              "brevorts_biomes:diorite_caves",
+                              "brevorts_biomes:granite_caves"
+                            ]
+                          },
+                          "then_run": {
+                            "type": "minecraft:sequence",
+                            "sequence": [
+                              {
+                                "type": "minecraft:block",
+                                "result_state": {
+                                  "Name": "minecraft:stone"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
                           "type": "minecraft:sequence",
                           "sequence": [
                             {
@@ -3172,6 +3219,7 @@
                                 ]
                               }
                             },
+
                             {
                               "type": "minecraft:condition",
                               "if_true": {
@@ -3181,21 +3229,25 @@
                                 ]
                               },
                               "then_run": {
-                                "type": "minecraft:sequence",
-                                "sequence": [
-                                  {
-                                    "type": "minecraft:condition",
-                                    "if_true": {
-                                      "type": "minecraft:above_preliminary_surface"
-                                    },
-                                    "then_run": {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:stone_depth",
+                                  "offset": 0,
+                                  "surface_type": "floor",
+                                  "add_surface_depth": true,
+                                  "secondary_depth_range": 3
+                                },
+                                "then_run": {
+                                  "type": "minecraft:sequence",
+                                  "sequence": [
+                                    {
                                       "type": "minecraft:block",
                                       "result_state": {
                                         "Name": "minecraft:granite"
                                       }
                                     }
-                                  }
-                                ]
+                                  ]
+                                }
                               }
                             },
                             {
@@ -3528,7 +3580,8 @@
                             "type": "minecraft:biome",
                             "biome_is": [
                               "minecraft:mangrove_swamp",
-                              "brevorts_biomes:tidal_flats"
+                              "brevorts_biomes:tidal_flats",
+                              "brevorts_biomes:peat_swamp"
                             ]
                           },
                           "then_run": {

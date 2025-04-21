@@ -1,0 +1,18 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 94251327,
+      "separation": 12,
+      "spacing": 40
+    },
+    "structures": [
+      {
+        "structure": "brevorts_biomes:trial_chambers_deep",
+        "weight": 2
+      },
+      {
+        "structure": "minecraft:trial_chambers",
+        "weight": 1
+      }
+    ]
+  }

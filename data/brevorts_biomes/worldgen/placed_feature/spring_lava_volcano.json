@@ -1,9 +1,13 @@
 {
-  "feature": "minecraft:spring_lava_overworld",
+  "feature": "brevorts_biomes:spring_lava_volcano",
   "placement": [
     {
       "type": "minecraft:count",
       "count": 200
+    },
+    {
+      "type": "minecraft:count",
+      "count": 2
     },
     {
       "type": "minecraft:in_square"
@@ -11,12 +15,12 @@
     {
       "type": "minecraft:height_range",
       "height": {
-        "type": "minecraft:uniform",
+        "type": "minecraft:trapezoid",
         "min_inclusive": {
-          "below_top": 8
+          "absolute": -191
         },
         "max_inclusive": {
-          "above_bottom": 0
+          "absolute": 831
         }
       }
     },

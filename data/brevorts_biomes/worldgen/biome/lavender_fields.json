@@ -10,6 +10,7 @@
     "fog_color": 12638463,
     "grass_color": 13874919,
     "foliage_color": 14196223,
+    "dry_foliage_color": 14196223,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2,
@@ -80,7 +81,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen",

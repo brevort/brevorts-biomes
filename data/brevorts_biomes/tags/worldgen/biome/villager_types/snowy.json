@@ -1,0 +1,27 @@
+{
+    "values": [
+      "minecraft:deep_frozen_ocean",
+      "minecraft:frozen_ocean",
+      "minecraft:snowy_slopes",
+      "minecraft:snowy_plains",
+      "minecraft:snowy_beach",
+      "minecraft:grove",
+      "minecraft:snowy_taiga",
+      "minecraft:jagged_peaks",
+      "minecraft:frozen_river",
+      "minecraft:ice_spikes",
+      "minecraft:frozen_peaks",
+      "brevorts_biomes:alpha_fields_winter",
+      "brevorts_biomes:frosted_forest",
+      "brevorts_biomes:frozen_tundra",
+      "brevorts_biomes:frozen_forest",
+      "brevorts_biomes:glacier",
+      "brevorts_biomes:ice_caves",
+      "brevorts_biomes:icy_peaks",
+      "brevorts_biomes:lofty_peaks",
+      "brevorts_biomes:polar_desert",
+      "brevorts_biomes:snow_capped_mountains",
+      "brevorts_biomes:snowy_volcano",
+      "brevorts_biomes:winter_forest"
+    ]
+  }

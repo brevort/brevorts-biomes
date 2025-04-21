@@ -12,6 +12,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "brevorts_biomes:oasis_poi",
+              "decoration": "target_x",
               "zoom": 2,
               "search_radius": 1023
             },
@@ -206,6 +207,19 @@
               "add": false
             }
           ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle"
         }
       ]
     }

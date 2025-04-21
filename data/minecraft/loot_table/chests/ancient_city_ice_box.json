@@ -22,7 +22,7 @@
             {
               "function": "minecraft:set_name",
               "target": "item_name",
-              "name": "Icy Peaks Exploration Map"
+              "name": "Icy Peaks Explorer Map"
             },
             {
               "function": "minecraft:set_components",

@@ -188,6 +188,19 @@
           "name": "minecraft:bucket"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle"
+        }
+      ]
     }
   ],
   "random_sequence": "minecraft:chests/village/village_savanna_house"

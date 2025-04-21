@@ -8,6 +8,7 @@
     "water_color": 3435746,
     "water_fog_color": 329011,
     "foliage_color": 16733958,
+    "dry_foliage_color": 16733958,
     "grass_color_modifier": "dark_forest",
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -189,7 +190,7 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "brevorts_biomes:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
